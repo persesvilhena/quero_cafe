@@ -1,0 +1,6 @@
+.tabela{
+	width: 50px;
+}
+.nounder:hover{
+	text-decoration: !underline;
+}
